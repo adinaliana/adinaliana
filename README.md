@@ -52,7 +52,7 @@ If you're working on a project and need a penetration tester/cybersecurity analy
 
 
 - 📧 Email: adina.liana@outlook.com 
-- 🔗 LinkedIn: [linkedin.com/in/adinapredut](https://linkedin.com/in/adinapredut)  
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adinapredut) 
 
 
 
