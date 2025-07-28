@@ -17,7 +17,7 @@ I am a junior penetration tester with a strong interest in offensive and defensi
 
 ## 📌 Portfolio Projects
 
-These are some of the practical projects I’ve worked on to build and demonstrate my skills:
+##These are some of the practical projects I’ve worked on to build and demonstrate my skills:
 
 
 
@@ -68,4 +68,4 @@ If you're working on a project and need a penetration tester/cybersecurity analy
 
 
 Thanks for visiting my GitHub profile!
-                                                                                            
+                                                                                                               
