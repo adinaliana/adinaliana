@@ -15,7 +15,9 @@ I am a junior penetration tester with a strong interest in offensive and defensi
 &nbsp;
 ### [Web Application Vulnerability Assessment and Exploitation - OWASP Juice Shop](https://github.com/adinaliana/project_1)
 - Conducted an authenticated scan using OWASP ZAP and exploited an open redirect vulnerability.
+  
   &nbsp;
+  
 ### [Metasploitable2 Exploitation - Brute-Forcing, Reverse Shell & Privilege Escalation](https://github.com/adinaliana/project_2)
 - Performed brute force login, uploaded web shell, and escalated to root via vulnerable Nmap.
   
